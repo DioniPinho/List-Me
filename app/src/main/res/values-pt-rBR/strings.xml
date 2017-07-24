@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">List Me</string>
+    <string name="action_settings">Configuraçoes</string>
+    <string name="age">Idade</string>
+    <string name="name">Nome</string>
+    <string name="save">Salvar</string>
+    <string name="name_error">Digite o nome</string>
+    <string name="age_error">Digite a idade</string>
+</resources>
